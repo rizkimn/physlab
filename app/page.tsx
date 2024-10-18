@@ -1,12 +1,10 @@
 'use client'
 
-import Link from "next/link";
 import Image from "next/image";
 import { Bungee } from "next/font/google";
 import { PlayIcon } from "./components/Icon";
 
 import logoPic from "@assets/img/logo.png";
-import { Metadata } from "next";
 import { useState } from "react";
 import UserForm from "./components/UserForm";
 

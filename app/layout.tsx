@@ -1,7 +1,6 @@
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
-import UserForm from "./components/UserForm";
 
 export const metadata: Metadata = {
   title: "Virtual Laboratory: Kinematika Gerak Lurus",
